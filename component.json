@@ -1,0 +1,17 @@
+{
+  "name": "js-emoji",
+  "repo": "sk7/js-emoji",
+  "description": "Display emoji in the browser, everywhere",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "",
+  "main": "emoji.js",
+  "scripts": [
+    "emoji.js"
+  ],
+  "styles": [
+    "emoji.css"
+  ]
+}
