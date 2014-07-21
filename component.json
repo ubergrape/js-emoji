@@ -13,5 +13,9 @@
   ],
   "styles": [
     "emoji.css"
+  ],
+  "images": [
+    "images/sheet_32.png",
+    "images/sheet_64.png"
   ]
 }
