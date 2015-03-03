@@ -35,7 +35,8 @@
     "emoji",
     "emoticon",
     "mobile",
-    "browser"
+    "browser",
+    "js"
   ],
   "author": "Cal Henderson <cal@iamcal.com>",
   "license": "MIT",
