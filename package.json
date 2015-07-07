@@ -1,0 +1,18 @@
+{
+  "name": "js-emoji",
+  "version": "1.0.0",
+  "description": "A JS Emoji conversion library",
+  "main": "emoji.js",
+  "styles": [ "emoji.css" ],
+  "images": [
+    "images/sheet_16.png",
+    "images/sheet_32.png",
+    "images/sheet_64.png"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sk7/js-emoji.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
