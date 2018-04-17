@@ -48,6 +48,10 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-karma-coveralls');
   grunt.loadNpmTasks('grunt-shell');
 
-  grunt.registerTask('default', ['shell:compile', 'uglify', 'karma:unit', 'karma:coverage']);
-  
+  grunt.registerTask('default', [
+    'shell:compile',
+    'uglify',
+    // 'karma:unit',
+    // 'karma:coverage'
+  ]);
 };
