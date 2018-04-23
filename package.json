@@ -1,5 +1,5 @@
 {
-  "name": "grape-js-emoji2",
+  "name": "grape-js-emoji",
   "version": "3.4.0",
   "description": "A JS Emoji conversion library",
   "main": "lib/emoji.js",
